@@ -67,10 +67,11 @@ window.PORTFOLIO_DATA = {
       "name": "Embedded Software Development",
       "items": [
         "STM32",
-        "RTOS",
-        "FreeRTOS",
-        "C",
-        "C++"
+        "ARM",
+        "ESP32",
+        "Arduino",
+        "PLC",
+        "Keil development"
       ]
     },
     {
@@ -79,12 +80,7 @@ window.PORTFOLIO_DATA = {
         "Python",
         "ROS2",
         "Gazebo",
-        "Reinforcement Learning",
-        "STM32",
-        "RTOS",
-        "FreeRTOS",
-        "C",
-        "C++"
+        "Reinforcement Learning"
       ]
     },
     {
@@ -116,11 +112,9 @@ window.PORTFOLIO_DATA = {
     {
       "name": "3D Modeling and Mechanical Design",
       "items": [
-        "STM32",
-        "RTOS",
-        "FreeRTOS",
-        "C",
-        "C++"
+        "SolidWorks",
+        "Abaqus",
+        "PowerMILL"
       ]
     }
   ],
@@ -137,22 +131,6 @@ window.PORTFOLIO_DATA = {
         "Developed deep-fuzzy reinforcement learning algorithms for mobile robot navigation in dynamic and uncertain environments using ROS2 and Gazebo.",
         "Designed predictive controllers for self-balancing two-wheeled robots using deep neural networks and simulation-driven optimization.",
         "Built and tested kino-dynamic simulation pipelines and model predictive controllers (MPC) for trajectory tracking and collision avoidance in real-time."
-      ]
-    },
-    {
-      "title": "Mechatronics Engineer",
-      "company": "FanAvin Co.",
-      "start_date": "2019/03/01",
-      "end_date": "2023/12/15",
-      "display_date": "Mar 2019 - Dec 2023",
-      "description": "Developed embedded firmware, robotic systems, and electromechanical products from prototype to launch.",
-      "tasks": [
-        "Led development of embedded firmware for an STM32-based autopilot system with RTOS architecture and real-time task scheduling.",
-        "Built a camera-guided mobile robot with autonomous navigation using image processing and sensor fusion.",
-        "Developed a fuzzy-logic-based controller for a social robot interacting with dynamic moving targets.",
-        "Engineered a high-speed autonomous watercraft with real-time obstacle avoidance algorithms.",
-        "Designed and launched several electromechanical systems, including a 6-DOF robotic arm for 3D printing and a 3-axis hydraulic robot.",
-        "Created a high-temperature smart oven (400 C) with custom embedded control."
       ]
     }
   ],
@@ -207,47 +185,9 @@ window.PORTFOLIO_DATA = {
       "authors": "Davood Nikkhouy; Moharam Habibnejad Korayem; Siavash Fathollahi Dehkordi",
       "venue": "Amirkabir Journal of Mechanical Engineering, 53(2), pp. 993-1014",
       "paper": "/materials/papers/EN_Path_Amirkabir.pdf"
-    },
-    {
-      "year": "2018",
-      "title": "Control a Mobile Robot in Social Environments by Considering Humans as a Moving Obstacle",
-      "authors": "S. D. N. Tanha; S. F. Dehkordi; A. H. Korayem",
-      "venue": "2018 6th RSI International Conference on Robotics and Mechatronics (ICRoM), pp. 256-260",
-      "paper": "/materials/papers/ICROM.pdf"
     }
   ],
   "projects": [
-    {
-      "title": "STM32 Autopilot and Embedded Robotics Systems",
-      "slug": "stm32-autopilot-and-embedded-robotics-systems",
-      "category": "Embedded Software Development",
-      "summary": "Led development of embedded firmware for an STM32-based autopilot system with RTOS architecture, real-time task scheduling, and robotic system integration.",
-      "role": "Mechatronics Engineer at FanAvin Co.",
-      "technologies": [
-        "STM32",
-        "RTOS",
-        "FreeRTOS",
-        "C",
-        "C++"
-      ],
-      "links": [],
-      "folder": "materials/projects/Embedded_Software_Development/Autopilot",
-      "media": []
-    },
-    {
-      "title": "Hexa Leg Chandelier",
-      "slug": "hexa-leg-chandelier",
-      "category": "Embedded Software Development",
-      "summary": "Embedded motion-control project prepared for media and documentation.",
-      "role": "Embedded and mechatronics developer",
-      "technologies": [
-        "Embedded C",
-        "Motion Control"
-      ],
-      "links": [],
-      "folder": "materials/projects/Embedded_Software_Development/Hexa_Leg_Chandlier",
-      "media": []
-    },
     {
       "title": "Oxygen Salon",
       "slug": "oxygen-salon",
@@ -422,6 +362,28 @@ window.PORTFOLIO_DATA = {
       ],
       "links": [],
       "folder": "",
+      "media": []
+    },
+    {
+      "title": "Autopilot",
+      "slug": "autopilot",
+      "category": "Embedded Software Development",
+      "summary": "",
+      "role": "",
+      "technologies": [],
+      "links": [],
+      "folder": "materials/projects/Embedded_Software_Development/Autopilot",
+      "media": []
+    },
+    {
+      "title": "Hexa Leg Chandlier",
+      "slug": "hexa-leg-chandlier",
+      "category": "Embedded Software Development",
+      "summary": "",
+      "role": "",
+      "technologies": [],
+      "links": [],
+      "folder": "materials/projects/Embedded_Software_Development/Hexa_Leg_Chandlier",
       "media": []
     }
   ]

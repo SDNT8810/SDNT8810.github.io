@@ -42,7 +42,7 @@ Projects:
     end_date: 2023/12
     location: Tehran, Iran
     ownership: Mechatronics Engineer at FanAvin Co.
-    include: true
+    include: false
   - name: Hexa Leg Chandelier
     category: Embedded_Software_Development
     description: Embedded motion-control project prepared for media and documentation.
@@ -57,7 +57,7 @@ Projects:
     end_date: ''
     location: ''
     ownership: Embedded and mechatronics developer
-    include: true
+    include: false
   - name: Oxygen Salon
     category: Mechanical_Engineering
     description: Mechanical product development project prepared for images, video, and slide documentation.
@@ -342,7 +342,7 @@ Work_experience:
     - Embedded Software Development
     - Robotics
     - Automation
-    include: true
+    include: false
 Education:
   include: true
   items:
@@ -439,7 +439,7 @@ Publications:
     year: 2018
     link: /materials/papers/ICROM.pdf
     doi: ''
-    include: true
+    include: false
 Referees:
   include: true
   items:

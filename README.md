@@ -31,7 +31,7 @@ CONTACT_RATE_LIMIT_WINDOW_SECONDS=900
 BREVO_API_KEY=
 SITE_DOMAIN=davoudnikkhouy.com
 CONTACT_TO_EMAIL=davoudnikkhouy@gmail.com
-CONTACT_FROM_EMAIL=verified-sender@davoudnikkhouy.com
+CONTACT_FROM_EMAIL=contact@sdnt.it
 CONTACT_FROM_NAME=Davoud Nikkhouy Portfolio
 CONTACT_SUBJECT_PREFIX=[Portfolio]
 ```

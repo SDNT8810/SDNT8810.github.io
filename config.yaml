@@ -1,0 +1,934 @@
+site:
+  include: true
+  domain:
+    value: "davoudnikkhouy.com"
+    include: true
+  title:
+    value: "Davoud Nikkhouy | Robotics and Embedded Systems Engineer"
+    include: true
+  description:
+    value: "Portfolio and CV for Davoud Nikkhouy, focused on robotics, embedded systems, control, and automation."
+    include: true
+  language:
+    value: "en"
+    include: true
+  cv_pdf:
+    value: "/materials/CV/CV.pdf"
+    include: true
+  contact_api:
+    value: "/api/contact"
+    include: true
+  hero_image:
+    value: "/materials/profile_images/my_face_not_official.jpeg"
+    include: true
+  profile_image:
+    value: "/materials/profile_images/profile_picture.jpg"
+    include: true
+  sections:
+    include: true
+    hero:
+      include: true
+    about:
+      include: true
+    skills:
+      include: true
+    experience:
+      include: true
+    projects:
+      include: true
+    education:
+      include: true
+    publications:
+      include: true
+    contact:
+      include: true
+
+profile:
+  include: true
+  first_name:
+    value: "Davoud"
+    include: true
+  last_name:
+    value: "Nikkhouy"
+    include: true
+  display_name:
+    value: "Davoud Nikkhouy"
+    include: true
+  headline:
+    value: "Robotics and Embedded Systems Engineer"
+    include: true
+  location:
+    value: "Milan, Italy"
+    include: true
+  home_address:
+    value: "Viale Carlo Espinasse 104, 20156 Milan, Italy"
+    include: true
+  work_permit:
+    value: "Italian"
+    include: true
+  nationality:
+    value: "Iranian"
+    include: true
+  date_of_birth:
+    value: "28 Aug 1991"
+    include: true
+  place_of_birth:
+    value: "Tehran, Iran"
+    include: true
+  gender:
+    value: "Male"
+    include: true
+  about:
+    value: >-
+      Robotics and Embedded Systems Engineer with a strong foundation in
+      mechanical and aerospace engineering, transitioning into advanced
+      embedded software, AI-driven control, and autonomous robotics. Over five
+      years of experience in developing real-time systems (STM32, FreeRTOS),
+      intelligent motion planning (ROS, Gazebo), and machine learning-based
+      controllers for mobile and self-balancing robots. Experienced in
+      combining theoretical research and practical implementation, from
+      firmware architecture to reinforcement learning and predictive control.
+    include: true
+  contact:
+    include: true
+    email:
+      value: "davoudnikkhouy@gmail.com"
+      include: true
+    phone:
+      value: "+39 3270694337"
+      include: true
+    portfolio:
+      value: "https://davoudnikkhouy.com"
+      include: true
+  links:
+    include: true
+    items:
+      - name:
+          value: "GitHub"
+          include: true
+        url:
+          value: "https://github.com/SDNT8810"
+          include: true
+        include: true
+      - name:
+          value: "LinkedIn"
+          include: true
+        url:
+          value: "https://www.linkedin.com/in/sdnt-519072b7/"
+          include: true
+        include: true
+      - name:
+          value: "Google Scholar"
+          include: true
+        url:
+          value: "https://scholar.google.com/citations?hl=en&user=d54YIeoAAAAJ"
+          include: true
+        include: true
+      - name:
+          value: "Telegram"
+          include: true
+        url:
+          value: "https://t.me/davoudnikkhouy"
+          include: true
+        include: true
+      - name:
+          value: "WhatsApp"
+          include: true
+        url:
+          value: "https://wa.me/393270694337"
+          include: true
+        include: true
+      - name:
+          value: "Instagram"
+          include: true
+        url:
+          value: "https://instagram.com/davoodsdnt"
+          include: true
+        include: true
+
+ats_keywords:
+  include: true
+  items:
+    - value: "Robotics"
+      include: true
+    - value: "Embedded Systems"
+      include: true
+    - value: "STM32"
+      include: true
+    - value: "FreeRTOS"
+      include: true
+    - value: "ROS2"
+      include: true
+    - value: "Gazebo"
+      include: true
+    - value: "Model Predictive Control"
+      include: true
+    - value: "Reinforcement Learning"
+      include: true
+    - value: "Motion Planning"
+      include: true
+    - value: "Computer Vision"
+      include: true
+    - value: "Sensor Fusion"
+      include: true
+    - value: "C++"
+      include: true
+    - value: "Python"
+      include: true
+    - value: "MATLAB"
+      include: true
+    - value: "Embedded Linux"
+      include: true
+
+skills:
+  include: true
+  groups:
+    - include: true
+      name:
+        value: "Embedded Software Development"
+        include: false
+      items:
+        - value: "STM32"
+          include: false
+        - value: "ARM"
+          include: false
+        - value: "ESP32"
+          include: false
+        - value: "Arduino"
+          include: false
+        - value: "PLC"
+          include: false
+        - value: "Keil"
+          include: false
+    - include: true
+      name:
+        value: "Real-Time and Robotics Platforms"
+        include: true
+      items:
+        - value: "ROS"
+          include: true
+        - value: "ROS2"
+          include: true
+        - value: "RTOS"
+          include: true
+        - value: "FreeRTOS"
+          include: true
+        - value: "Nuttx"
+          include: true
+        - value: "Embedded Linux"
+          include: true
+        - value: "Gazebo"
+          include: true
+    - include: true
+      name:
+        value: "Real Time Operating Systems"
+        include: true
+      items:
+        - value: "ROS & ROS2"
+          include: true
+        - value: "RTOS"
+          include: true
+        - value: "FreeRTOS"
+          include: true
+        - value: "Nuttx"
+          include: true
+        - value: "Embedded Linux"
+          include: true
+        - value: "Gazebo (Robotics simulator)"
+          include: true
+    - include: true
+      name:
+        value: "Software Development"
+        include: true
+      items:
+        - value: "C"
+          include: true
+        - value: "C++"
+          include: true
+        - value: "Python"
+          include: true
+        - value: "MATLAB"
+          include: true
+        - value: "Git"
+          include: true
+        - value: "GitHub"
+          include: true
+        - value: "GitLab"
+          include: true
+        - value: "CMake"
+          include: true
+        - value: "Catkin"
+          include: true
+    - include: true
+      name:
+        value: "Control and AI"
+        include: true
+      items:
+        - value: "Model Predictive Control"
+          include: true
+        - value: "Fuzzy Control"
+          include: true
+        - value: "Reinforcement Learning"
+          include: true
+        - value: "Deep Neural Networks"
+          include: true
+        - value: "Machine Learning"
+          include: true
+        - value: "Computer Vision"
+          include: true
+    - include: true
+      name:
+        value: "3D Modeling and Mechanical Design"
+        include: false
+      items:
+        - value: "SolidWorks"
+          include: false
+        - value: "Abaqus"
+          include: false
+        - value: "PowerMILL"
+          include: false
+
+work_experience:
+  include: true
+  items:
+    - include: true
+      title:
+        value: "Research Assistant"
+        include: true
+      company:
+        value: "Politecnico di Milano"
+        include: true
+      location:
+        value: "Milan, Italy"
+        include: true
+      start_date:
+        value: "2024-05-01"
+        include: true
+      end_date:
+        value: "Present"
+        include: true
+      display_date:
+        value: "May 2024 - Present"
+        include: true
+      description:
+        value: "Developing intelligent navigation, control, and simulation pipelines for mobile robotics."
+        include: true
+      tasks:
+        - value: "Developed deep-fuzzy reinforcement learning algorithms for mobile robot navigation in dynamic and uncertain environments using ROS2 and Gazebo."
+          include: true
+        - value: "Designed predictive controllers for self-balancing two-wheeled robots using deep neural networks and simulation-driven optimization."
+          include: true
+        - value: "Built and tested kino-dynamic simulation pipelines and model predictive controllers for trajectory tracking and real-time collision avoidance."
+          include: true
+    - include: true
+      title:
+        value: "Mechatronics Engineer"
+        include: true
+      company:
+        value: "FanAvin Co."
+        include: true
+      location:
+        value: "Tehran, Iran"
+        include: true
+      start_date:
+        value: "2019-03-01"
+        include: true
+      end_date:
+        value: "2023-12-15"
+        include: true
+      display_date:
+        value: "Mar 2019 - Dec 2023"
+        include: true
+      description:
+        value: "Developed embedded firmware, robotic systems, and electromechanical products from prototype to launch."
+        include: true
+      tasks:
+        - value: "Led development of embedded firmware for an STM32-based autopilot system with RTOS architecture and real-time task scheduling."
+          include: true
+        - value: "Built a camera-guided mobile robot with autonomous navigation using image processing and sensor fusion."
+          include: true
+        - value: "Developed a fuzzy-logic-based controller for a social robot interacting with dynamic moving targets."
+          include: true
+        - value: "Engineered a high-speed autonomous watercraft with real-time obstacle avoidance algorithms."
+          include: true
+        - value: "Designed and launched electromechanical systems including a 6-DOF robotic arm for 3D printing and a 3-axis hydraulic robot."
+          include: true
+        - value: "Created a high-temperature smart oven with custom embedded control."
+          include: true
+
+education:
+  include: true
+  items:
+    - include: true
+      degree:
+        value: "Master of Science"
+        include: true
+      field:
+        value: "Mechanical Engineering"
+        include: true
+      branch:
+        value: "Robotics and Automation"
+        include: true
+      institution:
+        value: "Iran University of Science and Technology"
+        include: true
+      location:
+        value: "Tehran, Iran"
+        include: true
+      start_date:
+        value: "2017-09-30"
+        include: true
+      end_date:
+        value: "2020-09-30"
+        include: true
+      display_date:
+        value: "Sep 2017 - Sep 2020"
+        include: true
+      website:
+        value: "https://www.iust.ac.ir/en"
+        include: true
+      final_grade:
+        value: "15.5 / 20"
+        include: true
+      eqf_level:
+        value: "EQF level 7"
+        include: true
+      thesis:
+        value: "Path planning and control of a mobile social robot in an environment with moving obstacles to reach the mobile target using fuzzy control."
+        include: true
+    - include: true
+      degree:
+        value: "Bachelor of Science"
+        include: true
+      field:
+        value: "Aerospace Engineering"
+        include: true
+      branch:
+        value: "Flight Dynamics and Design"
+        include: true
+      institution:
+        value: "Sharif University of Technology"
+        include: true
+      location:
+        value: "Tehran, Iran"
+        include: true
+      start_date:
+        value: "2010-09-30"
+        include: true
+      end_date:
+        value: "2015-09-30"
+        include: true
+      display_date:
+        value: "Sep 2010 - Sep 2015"
+        include: true
+      website:
+        value: "https://en.sharif.ir"
+        include: true
+      final_grade:
+        value: ""
+        include: false
+      eqf_level:
+        value: "EQF level 6"
+        include: true
+      thesis:
+        value: ""
+        include: false
+
+projects:
+  include: true
+  items:
+    - include: true
+      title:
+        value: "STM32 Autopilot System"
+        include: true
+      slug:
+        value: "autopilot"
+        include: true
+      category:
+        value: "Embedded Software Development"
+        include: true
+      folder:
+        value: "materials/projects/Embedded_Software_Development/Autopilot"
+        include: true
+      summary:
+        value: "Embedded autopilot firmware using STM32, RTOS task scheduling, and real-time control loops."
+        include: true
+      role:
+        value: "Firmware and control developer"
+        include: true
+      technologies:
+        include: true
+        items:
+          - value: "STM32"
+            include: true
+          - value: "FreeRTOS"
+            include: true
+          - value: "C/C++"
+            include: true
+          - value: "Keil"
+            include: true
+    - include: true
+      title:
+        value: "Hexa Leg Chandelier"
+        include: true
+      slug:
+        value: "hexa-leg-chandelier"
+        include: true
+      category:
+        value: "Embedded Software Development"
+        include: true
+      folder:
+        value: "materials/projects/Embedded_Software_Development/Hexa_Leg_Chandlier"
+        include: true
+      summary:
+        value: "Embedded motion-control project prepared for media and documentation."
+        include: true
+      role:
+        value: "Embedded and mechatronics developer"
+        include: true
+      technologies:
+        include: true
+        items:
+          - value: "Embedded C"
+            include: true
+          - value: "Motion Control"
+            include: true
+    - include: true
+      title:
+        value: "Oxygen Salon"
+        include: true
+      slug:
+        value: "oxygen-salon"
+        include: true
+      category:
+        value: "Mechanical Engineering"
+        include: true
+      folder:
+        value: "materials/projects/Mechanical_Engineering/Oxygen_Salon"
+        include: true
+      summary:
+        value: "Mechanical product development project prepared for images, video, and slide documentation."
+        include: true
+      role:
+        value: "Mechanical designer"
+        include: true
+      technologies:
+        include: true
+        items:
+          - value: "Mechanical Design"
+            include: true
+          - value: "Product Development"
+            include: true
+    - include: true
+      title:
+        value: "Reformer"
+        include: true
+      slug:
+        value: "reformer"
+        include: true
+      category:
+        value: "Mechanical Engineering"
+        include: true
+      folder:
+        value: "materials/projects/Mechanical_Engineering/Reformer"
+        include: true
+      summary:
+        value: "Mechanical system design project prepared for portfolio media."
+        include: true
+      role:
+        value: "Mechanical designer"
+        include: true
+      technologies:
+        include: true
+        items:
+          - value: "Mechanical Design"
+            include: true
+          - value: "CAD"
+            include: true
+    - include: true
+      title:
+        value: "StairMill"
+        include: true
+      slug:
+        value: "stairmill"
+        include: true
+      category:
+        value: "Mechanical Engineering"
+        include: true
+      folder:
+        value: "materials/projects/Mechanical_Engineering/StairMill"
+        include: true
+      summary:
+        value: "Fitness machine mechanical design and prototyping project."
+        include: true
+      role:
+        value: "Mechanical designer"
+        include: true
+      technologies:
+        include: true
+        items:
+          - value: "Mechanical Design"
+            include: true
+          - value: "Prototyping"
+            include: true
+    - include: true
+      title:
+        value: "3 Axis CNC Writer"
+        include: true
+      slug:
+        value: "3-axis-cnc-writer"
+        include: true
+      category:
+        value: "Mechatronics Engineering"
+        include: true
+      folder:
+        value: "materials/projects/Mechatronics_Engineering/3_Axis_CNC_Writer"
+        include: true
+      summary:
+        value: "Three-axis CNC writing platform combining mechanical design, motion control, and embedded execution."
+        include: true
+      role:
+        value: "Mechatronics developer"
+        include: true
+      technologies:
+        include: true
+        items:
+          - value: "Motion Control"
+            include: true
+          - value: "CNC"
+            include: true
+          - value: "Embedded Control"
+            include: true
+    - include: true
+      title:
+        value: "5 Axis Milling Machine"
+        include: true
+      slug:
+        value: "5-axis-milling-machine"
+        include: true
+      category:
+        value: "Mechatronics Engineering"
+        include: true
+      folder:
+        value: "materials/projects/Mechatronics_Engineering/5_Axis_Milling_Machine"
+        include: true
+      summary:
+        value: "Five-axis milling machine project prepared for CAD, media, and build documentation."
+        include: true
+      role:
+        value: "Mechatronics developer"
+        include: true
+      technologies:
+        include: true
+        items:
+          - value: "CNC"
+            include: true
+          - value: "Mechanical Design"
+            include: true
+          - value: "Motion Control"
+            include: true
+    - include: true
+      title:
+        value: "Bunker GCS"
+        include: true
+      slug:
+        value: "bunker-gcs"
+        include: true
+      category:
+        value: "Robotics and Automation"
+        include: true
+      folder:
+        value: "materials/projects/Robotics_And_Automation/Bunker_GCS"
+        include: true
+      summary:
+        value: "Ground control station project for robotic systems, prepared for screenshots, videos, and technical notes."
+        include: true
+      role:
+        value: "Robotics software developer"
+        include: true
+      technologies:
+        include: true
+        items:
+          - value: "Robotics"
+            include: true
+          - value: "Control Station"
+            include: true
+          - value: "Telemetry"
+            include: true
+    - include: true
+      title:
+        value: "Helixabot"
+        include: true
+      slug:
+        value: "helixabot"
+        include: true
+      category:
+        value: "Robotics and Automation"
+        include: true
+      folder:
+        value: "materials/projects/Robotics_And_Automation/Helixabot"
+        include: true
+      summary:
+        value: "Robotics platform prepared for navigation, control, and media documentation."
+        include: true
+      role:
+        value: "Robotics developer"
+        include: true
+      technologies:
+        include: true
+        items:
+          - value: "ROS"
+            include: true
+          - value: "Control"
+            include: true
+          - value: "Mechatronics"
+            include: true
+    - include: true
+      title:
+        value: "Image Processing Robot"
+        include: true
+      slug:
+        value: "image-processing-robot"
+        include: true
+      category:
+        value: "Robotics and Automation"
+        include: true
+      folder:
+        value: "materials/projects/Robotics_And_Automation/Image_Processing"
+        include: true
+      summary:
+        value: "Camera-guided mobile robot with autonomous navigation using image processing and sensor fusion."
+        include: true
+      role:
+        value: "Computer vision and robotics developer"
+        include: true
+      technologies:
+        include: true
+        items:
+          - value: "Computer Vision"
+            include: true
+          - value: "Python"
+            include: true
+          - value: "Sensor Fusion"
+            include: true
+    - include: true
+      title:
+        value: "ROS_ETH Technical Challenge"
+        include: true
+      slug:
+        value: "ros-eth"
+        include: true
+      category:
+        value: "Robotics and Automation"
+        include: true
+      folder:
+        value: "materials/projects/Robotics_And_Automation/ROS_ETH"
+        include: true
+      summary:
+        value: "ROS-based robotics challenge project with a recorded WebM demo and path-plot media used to validate video streaming and slide presentation behavior."
+        include: true
+      role:
+        value: "Robotics software developer"
+        include: true
+      technologies:
+        include: true
+        items:
+          - value: "ROS"
+            include: true
+          - value: "Python"
+            include: true
+          - value: "Path Planning"
+            include: true
+          - value: "Video Streaming"
+            include: true
+
+publications:
+  include: true
+  items:
+    - include: true
+      year:
+        value: "2025"
+        include: true
+      title:
+        value: "Fuzzy Q-Learning with Fuzzified Bellman Equation for Unmanned Ground Vehicle Navigation"
+        include: true
+      authors:
+        value: "Davood Nikkhouy; Mohsen Jalaeian Farimani"
+        include: true
+      venue:
+        value: "9th International Conference on Robotics and Automation Sciences (ICRAS 2025)"
+        include: true
+      link:
+        value: ""
+        include: false
+      paper:
+        value: "/materials/papers/SDNT_CP.pdf"
+        include: true
+    - include: true
+      year:
+        value: "2025"
+        include: true
+      title:
+        value: "Bi-Level Performance-Safety Consideration in Nonlinear Model Predictive Control"
+        include: true
+      authors:
+        value: "Davood Nikkhouy; Aliasghar Arab; Mohsen Jalaeian Farimani"
+        include: true
+      venue:
+        value: "Proceedings of Machine Learning Research (preparation for submission)"
+        include: true
+      link:
+        value: ""
+        include: false
+      paper:
+        value: ""
+        include: false
+    - include: true
+      year:
+        value: "2022"
+        include: true
+      title:
+        value: "Use of Artificial Intelligence to Identify Adhesive Joints Defects by Using Ultrasonic"
+        include: true
+      authors:
+        value: "Davoud Nikkhouy; M. Rastegarmoghaddam; M. Rajabi"
+        include: true
+      venue:
+        value: "Amirkabir Journal of Mechanical Engineering, 54(2), pp. 377-390"
+        include: true
+      link:
+        value: ""
+        include: false
+      paper:
+        value: "/materials/papers/EN_Mahshad.pdf"
+        include: true
+    - include: true
+      year:
+        value: "2021"
+        include: true
+      title:
+        value: "Path Design and Control of a Moving Social Robot in an Environment with Moving Obstacles to Reach a Moving Target through Fuzzy Control"
+        include: true
+      authors:
+        value: "Davood Nikkhouy; Moharam Habibnejad Korayem; Siavash Fathollahi Dehkordi"
+        include: true
+      venue:
+        value: "Amirkabir Journal of Mechanical Engineering, 53(2), pp. 993-1014"
+        include: true
+      link:
+        value: ""
+        include: false
+      paper:
+        value: "/materials/papers/EN_Path_Amirkabir.pdf"
+        include: true
+    - include: true
+      year:
+        value: "2018"
+        include: true
+      title:
+        value: "Control a Mobile Robot in Social Environments by Considering Humans as a Moving Obstacle"
+        include: true
+      authors:
+        value: "S. D. N. Tanha; S. F. Dehkordi; A. H. Korayem"
+        include: true
+      venue:
+        value: "2018 6th RSI International Conference on Robotics and Mechatronics (ICRoM), pp. 256-260"
+        include: true
+      link:
+        value: ""
+        include: false
+      paper:
+        value: "/materials/papers/ICROM.pdf"
+        include: true
+
+referees:
+  include: true
+  items:
+    - include: true
+      name:
+        value: "Professor Mohsen Jalaeian Farimani"
+        include: true
+      display_date:
+        value: "Apr 2024 - Present"
+        include: true
+      position:
+        value: "Assistant Professor, Robotics and Control Engineering"
+        include: true
+      institution:
+        value: "Politecnico di Milano"
+        include: true
+      email:
+        value: "mohsen.jalaeian@polimi.it"
+        include: true
+      phone:
+        value: ""
+        include: false
+      link:
+        value: "https://www.deib.polimi.it/eng/people/details/2012404"
+        include: true
+    - include: true
+      name:
+        value: "Dr Amirarya Ramzgooyan"
+        include: true
+      display_date:
+        value: "Oct 2008 - Present"
+        include: true
+      position:
+        value: "CEO, AFS-Agri (Aseman Faraz Sharif)"
+        include: true
+      institution:
+        value: "AFS-Agri"
+        include: true
+      email:
+        value: "a.ramzgooyan@cgelectronics.com"
+        include: true
+      phone:
+        value: "+31-6-38339132"
+        include: true
+      link:
+        value: ""
+        include: false
+    - include: true
+      name:
+        value: "Professor Moharam Habibnejad Korayem"
+        include: true
+      display_date:
+        value: "Oct 2017 - Feb 2022"
+        include: true
+      position:
+        value: "Professor, Mechanical Engineering"
+        include: true
+      institution:
+        value: "Iran University of Science and Technology"
+        include: true
+      email:
+        value: "hkorayem@iust.ac.ir"
+        include: true
+      phone:
+        value: ""
+        include: false
+      link:
+        value: "https://mech.iust.ac.ir/en/faculty/moharam-habibnejad-korayem/"
+        include: true
+    - include: true
+      name:
+        value: "Professor Siavash Fathollahi Dehkordi"
+        include: true
+      display_date:
+        value: "Oct 2017 - Feb 2022"
+        include: true
+      position:
+        value: "Assistant Professor, Mechanical Engineering"
+        include: true
+      institution:
+        value: "Shahid Chamran University of Ahvaz"
+        include: true
+      email:
+        value: "sfdehkordi@scu.ac.ir"
+        include: true
+      phone:
+        value: ""
+        include: false
+      link:
+        value: "https://sfdehkordi.ir/"
+        include: true

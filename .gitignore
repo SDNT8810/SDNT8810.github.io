@@ -1,0 +1,16 @@
+__pycache__/
+.env
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+.DS_Store
+*.pid
+
+states.json
+promp.txt
+/materials/CV/*
+materials/CV/*

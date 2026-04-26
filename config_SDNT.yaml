@@ -1,0 +1,535 @@
+Profile:
+  include: true
+  Name: Davoud
+  Family_Name: Nikkhouy
+  ABOUT_ME:
+    include: true
+    value: Robotics and Embedded Systems Engineer with a strong foundation in mechanical and aerospace engineering, transitioning
+      into advanced embedded software, AI-driven control, and autonomous robotics. Over five years of experience in developing
+      real-time systems (STM32, FreeRTOS), intelligent motion planning (ROS, Gazebo), and machine learning-based controllers
+      for mobile and self-balancing robots. Experienced in combining theoretical research and practical implementation, from
+      firmware architecture to reinforcement learning and predictive control.
+  Home_address:
+    include: true
+    value: Viale Carlo Espinasse 104, 20156 Milan (Italy)
+  Email:
+    include: true
+    value: davoudnikkhouy@gmail.com
+  Phone:
+    include: true
+    value: +39 3270694337
+  Portfolio:
+    include: true
+    value: https://davoudnikkhouy.com
+Projects:
+  include: true
+  items:
+  - name: STM32 Autopilot and Embedded Robotics Systems
+    category: Embedded_Software_Development
+    description: Led development of embedded firmware for an STM32-based autopilot system with RTOS architecture, real-time
+      task scheduling, and robotic system integration.
+    technologies:
+    - STM32
+    - RTOS
+    - FreeRTOS
+    - C
+    - C++
+    skills:
+    - Embedded Software
+    - Automation
+    - Robotics
+    start_date: 2019/03
+    end_date: 2023/12
+    location: Tehran, Iran
+    ownership: Mechatronics Engineer at FanAvin Co.
+    include: true
+  - name: Hexa Leg Chandelier
+    category: Embedded_Software_Development
+    description: Embedded motion-control project prepared for media and documentation.
+    technologies:
+    - Embedded C
+    - Motion Control
+    skills:
+    - Embedded Software
+    - Motion Control
+    - Mechatronics
+    start_date: ''
+    end_date: ''
+    location: ''
+    ownership: Embedded and mechatronics developer
+    include: true
+  - name: Oxygen Salon
+    category: Mechanical_Engineering
+    description: Mechanical product development project prepared for images, video, and slide documentation.
+    technologies:
+    - Mechanical Design
+    - Product Development
+    skills:
+    - Mechanical Design
+    - Product Development
+    - 3D Modeling
+    start_date: ''
+    end_date: ''
+    location: ''
+    ownership: Mechanical designer
+    include: true
+  - name: Reformer
+    category: Mechanical_Engineering
+    description: Mechanical system design project prepared for portfolio media.
+    technologies:
+    - Mechanical Design
+    - CAD
+    skills:
+    - Mechanical Design
+    - CAD
+    - Product Development
+    start_date: ''
+    end_date: ''
+    location: ''
+    ownership: Mechanical designer
+    include: true
+  - name: StairMill
+    category: Mechanical_Engineering
+    description: Fitness machine mechanical design and prototyping project.
+    technologies:
+    - Mechanical Design
+    - Prototyping
+    skills:
+    - Mechanical Design
+    - Prototyping
+    - Product Development
+    start_date: ''
+    end_date: ''
+    location: ''
+    ownership: Mechanical designer
+    include: true
+  - name: 3 Axis CNC Writer
+    category: Mechatronics_Engineering
+    description: Three-axis CNC writing platform combining mechanical design, motion control, and embedded execution.
+    technologies:
+    - Motion Control
+    - CNC
+    - Embedded Control
+    skills:
+    - Motion Control
+    - CNC
+    - Embedded Software
+    start_date: ''
+    end_date: ''
+    location: ''
+    ownership: Mechatronics developer
+    include: true
+  - name: 5 Axis Milling Machine
+    category: Mechatronics_Engineering
+    description: Five-axis milling machine project prepared for CAD, media, and build documentation.
+    technologies:
+    - CNC
+    - Mechanical Design
+    - Motion Control
+    skills:
+    - CNC
+    - Mechanical Design
+    - Motion Control
+    start_date: ''
+    end_date: ''
+    location: ''
+    ownership: Mechatronics developer
+    include: true
+  - name: Bunker GCS
+    category: Robotics_And_Automation
+    description: Ground control station project for robotic systems, prepared for screenshots, videos, and technical notes.
+    technologies:
+    - Robotics
+    - Control Station
+    - Telemetry
+    skills:
+    - Robotics
+    - Telemetry
+    - Control Systems
+    start_date: ''
+    end_date: ''
+    location: ''
+    ownership: Robotics software developer
+    include: true
+  - name: Helixabot
+    category: Robotics_And_Automation
+    description: Robotics platform prepared for navigation, control, and media documentation.
+    technologies:
+    - ROS
+    - Control
+    - Mechatronics
+    skills:
+    - ROS
+    - Control Systems
+    - Mechatronics
+    start_date: ''
+    end_date: ''
+    location: ''
+    ownership: Robotics developer
+    include: true
+  - name: Image Processing Robot
+    category: Robotics_And_Automation
+    description: Camera-guided mobile robot with autonomous navigation using image processing and sensor fusion.
+    technologies:
+    - Computer Vision
+    - Python
+    - Sensor Fusion
+    skills:
+    - Computer Vision
+    - Python
+    - Sensor Fusion
+    start_date: 2019/03
+    end_date: 2023/12
+    location: Tehran, Iran
+    ownership: Mechatronics Engineer at FanAvin Co.
+    include: true
+  - name: ROS_ETH Technical Challenge
+    category: Robotics_And_Automation
+    description: ROS-based robotics challenge project with a recorded WebM demo and path-plot media used to validate video
+      streaming and slide presentation behavior.
+    technologies:
+    - ROS
+    - Python
+    - Path Planning
+    - Video Streaming
+    skills:
+    - ROS
+    - Python
+    - Path Planning
+    start_date: ''
+    end_date: ''
+    location: ''
+    ownership: Robotics software developer
+    include: true
+  - name: Deep-Fuzzy Reinforcement Learning Mobile Robot Navigation
+    category: Robotics_And_Automation
+    description: Developed deep-fuzzy reinforcement learning algorithms for mobile robot navigation in dynamic and uncertain
+      environments using ROS2 and Gazebo.
+    technologies:
+    - Python
+    - ROS2
+    - Gazebo
+    - Reinforcement Learning
+    skills:
+    - Robotics
+    - Automation
+    - Machine Learning
+    start_date: 2024/05
+    end_date: Present
+    location: Milan, Italy
+    ownership: Research Assistant at Politecnico di Milano
+    include: true
+  - name: Predictive Control for Self-Balancing Robots
+    category: Robotics_And_Automation
+    description: Designed predictive controllers for self-balancing two-wheeled robots using deep neural networks and simulation-driven
+      optimization.
+    technologies:
+    - Python
+    - Model Predictive Control
+    - Deep Neural Networks
+    - Simulation
+    skills:
+    - Robotics
+    - Machine Learning
+    - Control Systems
+    start_date: 2024/05
+    end_date: Present
+    location: Milan, Italy
+    ownership: Research Assistant at Politecnico di Milano
+    include: true
+Skills:
+  include: true
+  items:
+  - name: Embedded Software Development
+    category: Embedded_Software_Development
+    description: STM32, ARM, ESP32, Arduino, PLC, and Keil development for embedded robotic and automation systems.
+    related_projects:
+    - STM32 Autopilot and Embedded Robotics Systems
+    include: true
+  - name: Real Time Operating Systems
+    category: Robotics_And_Automation
+    description: ROS, ROS2, RTOS, FreeRTOS, Nuttx, Embedded Linux, and Gazebo for real-time robotics and simulation workflows.
+    related_projects:
+    - Deep-Fuzzy Reinforcement Learning Mobile Robot Navigation
+    - STM32 Autopilot and Embedded Robotics Systems
+    include: true
+  - name: Software Development and Version Control
+    category: Software_Development
+    description: C/C++, Python, MATLAB, Git, GitHub, GitLab, CMake, and Catkin for robotics software development.
+    related_projects:
+    - Deep-Fuzzy Reinforcement Learning Mobile Robot Navigation
+    - Predictive Control for Self-Balancing Robots
+    include: true
+  - name: Control and AI
+    category: Robotics_And_Automation
+    description: Model Predictive Control, Fuzzy Control, Reinforcement Learning, Deep Neural Networks, Machine Learning,
+      and Computer Vision.
+    related_projects:
+    - Deep-Fuzzy Reinforcement Learning Mobile Robot Navigation
+    - Predictive Control for Self-Balancing Robots
+    - Image Processing Robot
+    include: true
+  - name: 3D Modeling and Mechanical Design
+    category: Mechanical_Engineering
+    description: SolidWorks, Abaqus, and PowerMILL for mechanical design, modeling, and engineering analysis.
+    related_projects:
+    - STM32 Autopilot and Embedded Robotics Systems
+    include: true
+Work_experience:
+  include: true
+  items:
+  - title: Research Assistant
+    company: Politecnico di Milano
+    start_date: 2024/05/01
+    end_date: Present
+    location: Milan, Italy
+    description: Developing intelligent navigation, control, and simulation pipelines for mobile robotics.
+    tasks:
+    - Developed deep-fuzzy reinforcement learning algorithms for mobile robot navigation in dynamic and uncertain environments
+      using ROS2 and Gazebo.
+    - Designed predictive controllers for self-balancing two-wheeled robots using deep neural networks and simulation-driven
+      optimization.
+    - Built and tested kino-dynamic simulation pipelines and model predictive controllers (MPC) for trajectory tracking and
+      collision avoidance in real-time.
+    related_projects:
+    - name: Deep-Fuzzy Reinforcement Learning Mobile Robot Navigation
+      description: Mobile robot navigation in dynamic and uncertain environments using ROS2 and Gazebo.
+      technologies:
+      - Python
+      - ROS2
+      - Gazebo
+      - Reinforcement Learning
+    - name: Predictive Control for Self-Balancing Robots
+      description: Predictive controllers for self-balancing two-wheeled robots using deep neural networks.
+      technologies:
+      - Python
+      - Model Predictive Control
+      - Deep Neural Networks
+    related_skills:
+    - Robotics
+    - Automation
+    - Machine Learning
+    include: true
+  - title: Mechatronics Engineer
+    company: FanAvin Co.
+    start_date: 2019/03/01
+    end_date: 2023/12/15
+    description: Developed embedded firmware, robotic systems, and electromechanical products from prototype to launch.
+    tasks:
+    - Led development of embedded firmware for an STM32-based autopilot system with RTOS architecture and real-time task scheduling.
+    - Built a camera-guided mobile robot with autonomous navigation using image processing and sensor fusion.
+    - Developed a fuzzy-logic-based controller for a social robot interacting with dynamic moving targets.
+    - Engineered a high-speed autonomous watercraft with real-time obstacle avoidance algorithms.
+    - Designed and launched several electromechanical systems, including a 6-DOF robotic arm for 3D printing and a 3-axis
+      hydraulic robot.
+    - Created a high-temperature smart oven (400 C) with custom embedded control.
+    related_projects:
+    - name: STM32 Autopilot and Embedded Robotics Systems
+      description: Embedded firmware for STM32-based autopilot and robotic control systems.
+      technologies:
+      - STM32
+      - RTOS
+      - FreeRTOS
+      - C
+      - C++
+    - name: Camera-Guided Mobile Robot
+      description: Autonomous navigation using image processing and sensor fusion.
+      technologies:
+      - Computer Vision
+      - Sensor Fusion
+      - Robotics
+    related_skills:
+    - Embedded Software Development
+    - Robotics
+    - Automation
+    include: true
+Education:
+  include: true
+  items:
+  - degree: Master of Science
+    field: Mechanical Engineering
+    branch: Robotics and Automation
+    institution: Iran University of Science and Technology
+    start_date: 2017/09/30
+    end_date: 2020/09/30
+    location: Tehran, Iran
+    Thesis: Path planning and control of a mobile social robot in an environment with moving obstacles to reach the mobile
+      target using fuzzy control.
+    GPD: 15.5 / 20
+    include: true
+  - degree: Bachelor of Science
+    field: Aerospace Engineering
+    branch: Flight Dynamics and Design
+    institution: Sharif University of Technology
+    start_date: 2010/09/30
+    end_date: 2015/09/30
+    location: Tehran, Iran
+    Thesis: ''
+    GPD: ''
+    include: true
+  - degree: ''
+    field: ''
+    branch: ''
+    institution: ''
+    start_date: ''
+    end_date: ''
+    location: ''
+    Thesis: ''
+    GPD: ''
+    include: true
+  - degree: ''
+    field: ''
+    branch: ''
+    institution: ''
+    start_date: ''
+    end_date: ''
+    location: ''
+    thesis: ''
+    description: ''
+    include: true
+Publications:
+  include: true
+  items:
+  - title: Fuzzy Q-Learning with Fuzzified Bellman Equation for Unmanned Ground Vehicle Navigation
+    authors:
+    - Davood Nikkhouy
+    - Mohsen Jalaeian Farimani
+    conference: 9th International Conference on Robotics and Automation Sciences (ICRAS 2025)
+    year: 2025
+    link: /materials/papers/SDNT_CP.pdf
+    doi: ''
+    include: true
+  - title: Bi-Level Performance-Safety Consideration in Nonlinear Model Predictive Control
+    authors:
+    - Davood Nikkhouy
+    - Aliasghar Arab
+    - Mohsen Jalaeian Farimani
+    journal: Proceedings of Machine Learning Research (preparation for submission)
+    year: 2025
+    link: ''
+    doi: ''
+    include: true
+  - title: Use of Artificial Intelligence to Identify Adhesive Joints Defects by Using Ultrasonic
+    authors:
+    - Davoud Nikkhouy
+    - M. Rastegarmoghaddam
+    - M. Rajabi
+    journal: Amirkabir Journal of Mechanical Engineering, 54(2), pp. 377-390
+    year: 2022
+    link: /materials/papers/EN_Mahshad.pdf
+    doi: ''
+    include: true
+  - title: Path Design and Control of a Moving Social Robot in an Environment with Moving Obstacles to Reach a Moving Target
+      through Fuzzy Control
+    authors:
+    - Davood Nikkhouy
+    - Moharam Habibnejad Korayem
+    - Siavash Fathollahi Dehkordi
+    journal: Amirkabir Journal of Mechanical Engineering, 53(2), pp. 993-1014
+    year: 2021
+    link: /materials/papers/EN_Path_Amirkabir.pdf
+    doi: ''
+    include: true
+  - title: Control a Mobile Robot in Social Environments by Considering Humans as a Moving Obstacle
+    authors:
+    - S. D. N. Tanha
+    - S. F. Dehkordi
+    - A. H. Korayem
+    conference: 2018 6th RSI International Conference on Robotics and Mechatronics (ICRoM), pp. 256-260
+    year: 2018
+    link: /materials/papers/ICROM.pdf
+    doi: ''
+    include: true
+Referees:
+  include: true
+  items:
+  - name: Professor Mohsen Jalaeian Farimani
+    position: Assistant Professor, Robotics and Control Engineering
+    institution: Politecnico di Milano
+    email: mohsen.jalaeian@polimi.it
+    phone: ''
+    address: Politecnico di Milano, Milan, Italy
+    description: Assistant professor in robotics and control engineering at Politecnico di Milano.
+    how_known: Research supervisor at Politecnico di Milano from 1 Apr 2024 to present.
+    include: true
+  - name: Dr Amirarya Ramzgooyan
+    position: CEO
+    institution: AFS-Agri (Aseman Faraz Sharif)
+    email: a.ramzgooyan@cgelectronics.com
+    phone: +31-6-38339132
+    address: ''
+    description: CEO of AFS-Agri (Aseman Faraz Sharif).
+    how_known: Professional reference from 1 Oct 2008 to present.
+    include: true
+  - name: Professor Moharam Habibnejad Korayem
+    position: Professor, Mechanical Engineering
+    institution: Iran University of Science and Technology
+    email: hkorayem@iust.ac.ir
+    phone: ''
+    address: Iran University of Science and Technology, Tehran, Iran
+    description: Professor of mechanical engineering at Iran University of Science and Technology.
+    how_known: Academic reference from 1 Oct 2017 to 1 Feb 2022.
+    include: true
+  - name: Professor Siavash Fathollahi Dehkordi
+    position: Assistant Professor, Mechanical Engineering
+    institution: Shahid Chamran University of Ahvaz
+    email: sfdehkordi@scu.ac.ir
+    phone: ''
+    address: Shahid Chamran University of Ahvaz, Ahvaz, Iran
+    description: Assistant professor of mechanical engineering at Shahid Chamran University of Ahvaz.
+    how_known: Academic reference from 1 Oct 2017 to 1 Feb 2022.
+    include: true
+social_media_links:
+  include: true
+  items:
+  - name: GitHub
+    value: https://github.com/SDNT8810
+    include: true
+  - name: LinkedIn
+    value: https://www.linkedin.com/in/sdnt-519072b7/
+    include: true
+  - name: google scholar
+    value: https://scholar.google.com/citations?hl=en&user=d54YIeoAAAAJ
+    include: true
+  - name: portfolio
+    value: https://davoudnikkhouy.com
+    include: true
+  - name: ORCID
+    value: https://orcid.org/0000-0002-9943-3089
+    include: true
+  - name: ResearchGate
+    value: null
+    include: true
+  - name: telegram
+    value: https://t.me/davoudnikkhouy
+    include: true
+  - name: WhatsApp
+    value: '+393270694337'
+    include: true
+  - name: Instagram
+    value: https://instagram.com/davoodsdnt
+    include: true
+  - name: Twitter
+    value: null
+    include: true
+  - name: Facebook
+    value: null
+    include: true
+  - name: YouTube
+    value: null
+    include: true
+  - name: TikTok
+    value: null
+    include: true
+  - name: Stack Overflow
+    value: null
+    include: true
+  - name: Medium
+    value: null
+    include: true
+  - name: Skype
+    value: null
+    include: true
+  - name: wechat
+    value: null
+    include: true
